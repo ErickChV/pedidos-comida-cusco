@@ -1,9 +1,9 @@
 # Sistema Web de Pedidos de Comida Cusqueña - QosqoEats
-
-Proyecto base para la gestión y pedidos en línea de gastronomía tradicional en la ciudad de Cusco. Desarrollado como parte del Laboratorio 1 de Ingeniería de Software.
+Proyecto base para la gestión y pedidos en línea de gastronomía tradicional en la ciudad de Cusco.
 
 ## Caso Práctico
-Una startup en Cusco requiere establecer las bases tecnológicas de su plataforma para conectar restaurantes locales de platos tradicionales (chicharrón cusqueño, lechón, rocoto relleno, choclo con queso) con clientes locales y visitantes, organizando el código mediante buenas prácticas de versionamiento desde la etapa inicial.
+Una startup en Cusco desea desarrollar un sistema web para gestionar pedidos de comida
+local. El equipo necesita organizar su código desde el inicio.
 
 ## Herramientas y Entorno de Desarrollo
 - **Sistema Operativo:** Linux CachyOS
@@ -14,7 +14,7 @@ Una startup en Cusco requiere establecer las bases tecnológicas de su plataform
 ## Estructura del Repositorio
 ```
 pedidos-comida-cusco/
-└── README.md       # Documentación general y arquitectura inicial del proyecto
+└── README.md
 ```
 
 ## Instrucciones de Clonación y Uso
